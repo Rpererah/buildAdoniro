@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+export default function App(){
+  return(
+    <div>
+      <Cabecalho/>
+      <Texto/>
+      <Cabecalho/>
     </div>
-  );
+  )
 }
 
-export default App;
+
+export function Cabecalho(){
+  return(
+    <div 
+    style={{
+      backgroundColor:'black',
+      height:'20vh'
+    }}
+    >
+
+    </div>
+  )
+}
+
+
+
+export function Texto(){
+  return(
+    <div 
+    style={{
+      paddingBottom:'20vh',
+      paddingTop:'20vh'
+    }}>
+      <h1>Rafael</h1>
+    </div>
+  )
+}
