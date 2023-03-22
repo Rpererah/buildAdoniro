@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rpererah.github.io/buildAdoniro/static/css/main.e6c13ad2.css",
-    "main.js": "/rpererah.github.io/buildAdoniro/static/js/main.f5d4804e.js",
-    "static/js/787.5c086316.chunk.js": "/rpererah.github.io/buildAdoniro/static/js/787.5c086316.chunk.js",
-    "index.html": "/rpererah.github.io/buildAdoniro/index.html",
-    "main.e6c13ad2.css.map": "/rpererah.github.io/buildAdoniro/static/css/main.e6c13ad2.css.map",
-    "main.f5d4804e.js.map": "/rpererah.github.io/buildAdoniro/static/js/main.f5d4804e.js.map",
-    "787.5c086316.chunk.js.map": "/rpererah.github.io/buildAdoniro/static/js/787.5c086316.chunk.js.map"
+    "main.css": "/buildAdoniro/static/css/main.e6c13ad2.css",
+    "main.js": "/buildAdoniro/static/js/main.595b8de1.js",
+    "static/js/787.5c086316.chunk.js": "/buildAdoniro/static/js/787.5c086316.chunk.js",
+    "index.html": "/buildAdoniro/index.html",
+    "main.e6c13ad2.css.map": "/buildAdoniro/static/css/main.e6c13ad2.css.map",
+    "main.595b8de1.js.map": "/buildAdoniro/static/js/main.595b8de1.js.map",
+    "787.5c086316.chunk.js.map": "/buildAdoniro/static/js/787.5c086316.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f5d4804e.js"
+    "static/js/main.595b8de1.js"
   ]
 }
